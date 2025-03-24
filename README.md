@@ -5,7 +5,7 @@
 This repository contains my lab report submission for **COMP6245: Foundations of Machine Learning** at the University of Southampton.  
 I achieved **20/20** on this lab report and an overall module mark of **84%**.
 
----
+
 
 ### ⚠️ Copyright & Disclaimer
 
@@ -24,7 +24,7 @@ All content is the original work of the author.
 本仓库包含我为南安普顿大学课程 **COMP6245: Foundations of Machine Learning（机器学习基础）** 提交的实验报告。  
 我在该实验报告中获得 **20/20** 的满分，总评成绩为 **84%**。
 
----
+
 
 ### ⚠️ 版权声明
 
