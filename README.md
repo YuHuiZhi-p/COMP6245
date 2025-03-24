@@ -1,4 +1,4 @@
-# 📊 COMP6245 Foundations of Machine Learning – Lab Report
+# COMP6245 Foundations of Machine Learning – Lab Report
 
 ## 🇬🇧 English Version
 
