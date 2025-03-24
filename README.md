@@ -1,9 +1,12 @@
-# COMP6245 Foundations of Machine Learning – Lab Report
+# 📊 COMP6245 Foundations of Machine Learning – Lab Report
 
 ## 🇬🇧 English Version
 
-This repository contains my lab report submission for **COMP6245: Foundations of Machine Learning** at the University of Southampton.  
+This repository contains my lab report submission for **[COMP6245: Foundations of Machine Learning](https://www.southampton.ac.uk/courses/modules/comp6245)** at the University of Southampton.  
 I achieved **20/20** on this lab report and an overall module mark of **84%**.
+
+- 🔗 [Module Overview on University Website](https://www.southampton.ac.uk/courses/modules/comp6245)  
+- 🔗 [Internal NotesWiki for COMP6245 (Login Required)](https://secure.ecs.soton.ac.uk/noteswiki/w/COMP6245)
 
 
 
@@ -21,8 +24,11 @@ All content is the original work of the author.
 
 ## 🇨🇳 中文版本
 
-本仓库包含我为南安普顿大学课程 **COMP6245: Foundations of Machine Learning（机器学习基础）** 提交的实验报告。  
+本仓库包含我为南安普顿大学课程 **[COMP6245：机器学习基础](https://www.southampton.ac.uk/courses/modules/comp6245)** 提交的实验报告。  
 我在该实验报告中获得 **20/20** 的满分，总评成绩为 **84%**。
+
+- 🔗 [课程模块介绍（大学官网）](https://www.southampton.ac.uk/courses/modules/comp6245)  
+- 🔗 [COMP6245 内部课程笔记 Wiki（需登录）](https://secure.ecs.soton.ac.uk/noteswiki/w/COMP6245)
 
 
 
@@ -35,6 +41,7 @@ All content is the original work of the author.
 > 抄袭或未经授权的使用将被视为严重的学术不端行为，并可能受到处分。
 
 © 2025 **Huizhi Yu** – 保留所有权利。
+
 
 
 
