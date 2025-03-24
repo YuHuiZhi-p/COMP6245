@@ -1,4 +1,4 @@
-# 📊 COMP6245 Foundations of Machine Learning – Lab Report
+# COMP6245 Foundations of Machine Learning – Lab Report
 
 This repository contains my lab report submission for **COMP6245: Foundations of Machine Learning** at the University of Southampton.  
 I achieved **20/20** on this lab report and an overall module mark of **84%**.
@@ -17,5 +17,6 @@ All content is the original work of the author.
 侵权行为可能导致学术不端处理。
 
 © 2025 **Huizhi Yu** – All rights reserved.
+
 
 
